@@ -48,7 +48,6 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<ul> 
 		<li  id="ca-nstab-user"><span><a href="./index.php"  title="Visits the Main Page" accesskey="c">Main Page</a></span></li> 
 		<li  id="ca-talk"><span><a href="./matrix.php"  title="Visits the account matrix of Hydriz" accesskey="t">Account Matrix</a></span></li> 
-		<li  id="ca-bots"><span><a href="./bots.php"  title="Statuses of bots in CVT" accesskey="t">Bots</a></span></li> 
 		<li  id="ca-tools" class="selected"><span><a href="./tools.php"  title="Tools provided by Hydriz">Tools</a></span></li>
 	</ul> 
 </div> 
