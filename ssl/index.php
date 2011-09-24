@@ -66,8 +66,8 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<h5>Views</h5> 
 	<ul> 
 		<li id="ca-view" class="selected"><span><a href="./index.php" >Read</a></span></li> 
-		<li id="ca-edit"><span><a href="https://alphacorp.svn.sourceforge.net/svnroot/alphacorp/Hytools/trunk/phase2/ssl/index.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
-		<li id="ca-history" class="collapsible "><span><a href="http://alphacorp.svn.sourceforge.net/viewvc/alphacorp/Hytools/trunk/phase2/ssl/index.php?view=log"  title="Find out the history of this page" accesskey="h">View history</a></span></li> 
+		<li id="ca-edit"><span><a href="https://github.com/Hydriz/Hytools/tree/2.2tsh1/ssl/index.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
+		<li id="ca-history" class="collapsible "><span><a href="https://github.com/Hydriz/Hytools/commits/2.2tsh1/"  title="Find out the history of this software" accesskey="h">View history</a></span></li> 
 			</ul> 
 </div> 
 <div id="p-search"> 
