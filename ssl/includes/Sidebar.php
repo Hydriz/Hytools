@@ -27,7 +27,6 @@
 			<li id="t-whatlinkshere"><a href="http://commons.wikimedia.org/wiki/Commons:Upload" title="Upload a file to Wikimedia Commons" accesskey="j">Upload a file to Commons</a></li> 
 			<li id="t-emailuser"><a href="http://meta.wikimedia.org/wiki/Special:EmailUser/Hydriz" title="Send an e-mail to Hydriz on Meta Wiki">E-mail Hydriz</a></li> 
 			<li id="t-upload"><a href="http://svn.wikimedia.org/svnroot/mediawiki/" title="Visit the Subversion repository of Wikimedia" accesskey="u">Wikimedia subversion repository</a></li> 
-			<li id="t-specialpages"><a href="https://wikis.svn.sourceforge.net/svnroot/alphacorp/" title="Visit the Subversion repository of Hydriz" accesskey="q">Hydriz's subversion repository</a></li> 
 		</ul> 
 	</div> 
 </div> 
