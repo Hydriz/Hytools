@@ -15,7 +15,8 @@ the site. This is part of the transition to the phase 3 software of Hytools.
 * Site notices can now be enabled using the $hySiteNotice configuration in
 LocalSettings.php. Message will appear throughout the site itself, above the
 first heading.
-* It is now possible to upload files to the web server using upload.php. Files
-will be stored in "upload" directory.
 * When a visitor visits the site, they would be redirected to the SSL-enabled
 site located in the ssl directory.
+* Bots page has been removed following the CVT project becoming defunct.
+* Links that point to the hosting repository of the software is now changed to
+the new GitHub repository

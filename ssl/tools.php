@@ -48,7 +48,6 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<ul> 
 		<li  id="ca-nstab-user"><span><a href="./index.php"  title="Visits the Main Page" accesskey="c">Main Page</a></span></li> 
 		<li  id="ca-talk"><span><a href="./matrix.php"  title="Visits the account matrix of Hydriz" accesskey="t">Account Matrix</a></span></li> 
-		<li  id="ca-bots"><span><a href="./bots.php"  title="Statuses of bots in CVT" accesskey="t">Bots</a></span></li> 
 		<li  id="ca-tools" class="selected"><span><a href="./tools.php"  title="Tools provided by Hydriz">Tools</a></span></li>
 	</ul> 
 </div> 
@@ -65,8 +64,8 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<h5>Views</h5> 
 	<ul> 
 		<li id="ca-view" class="selected"><span><a href="./index.php" >Read</a></span></li> 
-		<li id="ca-edit"><span><a href="https://alphacorp.svn.sourceforge.net/svnroot/alphacorp/Hytools/trunk/phase2/ssl/tools.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
-		<li id="ca-history" class="collapsible "><span><a href="http://alphacorp.svn.sourceforge.net/viewvc/alphacorp/Hytools/trunk/phase2/ssl/tools.php?view=log"  title="Find out the history of this page" accesskey="h">View history</a></span></li> 
+		<li id="ca-edit"><span><a href="https://github.com/Hydriz/Hytools/tree/2.2tsh1/ssl/index.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
+		<li id="ca-history" class="collapsible "><span><a href="https://github.com/Hydriz/Hytools/commits/2.2tsh1/"  title="Find out the history of this software" accesskey="h">View history</a></span></li> 
 			</ul> 
 </div> 
 <div id="p-search"> 

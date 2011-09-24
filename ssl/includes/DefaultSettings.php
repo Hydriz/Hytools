@@ -12,7 +12,7 @@
  */
 
 // Hytools version number
-$hyVersion = "2.2";
+$hyVersion = "2.2alpha";
 
 // Central sitenotice that appears at the top of every page
 $hySiteNotice = "";
