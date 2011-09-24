@@ -28,7 +28,6 @@ Jump to: <a href="#mw-head">navigation</a>,
 <p>Do take a look at my <a href="./matrix.php">Account Matrix</a> too!</p>
 <h2>Services I use on my Toolserver account</h2>
 <p>I currently use my Toolserver for the following jobs:</p>
-<li><a href="http://countervandalism.net">Countervandalism bot</a> - A special bot that tracks the live RecentChanges feed from the <a title="wmf:Home" href="http://wikimediafoundation.org/wiki/Home">Wikimedia</a> IRC. (Bot list available <a href="./bots.html">here</a>)</li>
 <li><a href="http://pywikipediabot.sourceforge.net/">Pywikipediabot</a> - A bot that adds <a title="m:Help:Interwiki linking" href="http://meta.wikimedia.org/wiki/Help:Interwiki_linking"</a>Interwiki links</a> to other languages.</li>
 <p><i>More services would be added soon...</i></p>
 </p>
