@@ -5,7 +5,8 @@ $output = "<html>
 <head>
 <title>Private information about the Toolserver</title>
 </head>
-<body>\n";
+<body>
+<p>Here are some info about the Toolserver (I can't guarantee it is working):</p>\n";
 
 /* Now for the core stuff */
 // IP address of the Toolserver server
