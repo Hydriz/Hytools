@@ -1,10 +1,7 @@
 README
 
-== Hytools 2 ==
-This is the phase 2 rewrite of the Hytools software, aimed to completely
-redesign the interface of the Hytools software and reduce the dependency
-of the original HTML code from Wikipedia.
-
-Please note that this is still very much in beta and we expect to be able
-to officially release this version in late 2011/early 2012. Please conti-
-nue to follow the changes in the trunk folder for the latest code changes.
+== Hytools-PHP 1.1 ==
+This is the PHP version of Hytools. It is currently in
+experimental mode and is not intended for use on normal
+installations of Hytools. Please use the static HTML
+version of the software instead.
