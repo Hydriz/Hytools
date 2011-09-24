@@ -6,7 +6,6 @@
 		<ul> 
 			<li id="n-mainpage-description"><a href="./index.php" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
 			<li id="n-contents"><a href="./matrix.php" title="Account matrix of Hydriz">Account Matrix</a></li> 
-			<li id="n-featuredcontent"><a href="./bots.php" title="Statuses of bots in CVT">CVT bot list</a></li> 
 			<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikimedia</a></li> 
 		</ul> 
 	</div> 
