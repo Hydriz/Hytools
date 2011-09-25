@@ -25,7 +25,7 @@ Jump to: <a href="#mw-head">navigation</a>,
 <a href="#p-search">search</a> 
 </div> 
 <p>Username selected: <a href="http://<?php echo $_GET['lang']; ?>.<?php echo $_GET['project']; ?>.org/wiki/User:<?php echo $_GET['username']; ?>"><?php echo $_GET["username"]; ?></a><br /></p>
-<p>Project selected: <a href="http://<?php echo $_GET['lang']; ?>.<?php echo $_GET['project']; ?>.org"><?php echo $_GET['lang']; ?>.<?php echo $_GET['project']; ?>.org</a></p>
+<p>Project selected: <a href="http://<?php echo $_GET['lang']; ?>.<?php echo $_GET['project']; ?>.org/wiki/"><?php echo $_GET['lang']; ?>.<?php echo $_GET['project']; ?>.org</a> (<a href="https://secure.wikimedia.org/<?php echo $_GET['project']; ?>/<?php echo $_GET['lang']; ?>/wiki/">Secure access</a>)</p>
 <?php
 $con = mysql_connect($hyDBServer,$hyDBUsername,$hyDBUserpass);
 if (!$con)
@@ -35,7 +35,7 @@ if (!$con)
 
 mysql_select_db("enwiki_p", $con); // TEMP, will have to allow visitor to choose database
 
-$result = mysql_query('SELECT * FROM user WHERE user_name = "' . $_GET['username'] . '"');
+$result = mysql_query('SELECT user_editcount FROM user WHERE user_name = "' . $_GET['username'] . '";');
 
 echo "User's edit count: " . $result;
 
