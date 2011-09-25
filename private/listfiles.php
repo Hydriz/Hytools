@@ -21,7 +21,7 @@ function ListFiles($dir) {
                     $inner_files = ListFiles($dir . "/" . $file);
                     if(is_array($inner_files)) $files = array_merge($files, $inner_files); 
                 } else {
-                    array_push($files, $dir . "/" . $file);
+                    array_push($files,$file);
                 }
             }
         }
