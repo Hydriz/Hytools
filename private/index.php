@@ -28,7 +28,7 @@ $output .= "<p>" . "HTTPS: " . $_SERVER['HTTPS'] . "</p>" . "\n";
 $output .= "<p>" . "Server port: " . $_SERVER['SERVER_PORT'] . "</p>" . "\n";
 
 // Ask user to go back
-$output .= "<p>" . '<i>Go back to the <a href="http://toolserver.org/~hydriz">main page</a></i>' . "</p>" . "\n";
+$output .= "<p>" . '<i>Go back to the <a href="http://toolserver.org/~hydriz">main page</a></i>.' . "</p>" . "\n";
 
 // Now we close everything...
 $output .= "</body>
