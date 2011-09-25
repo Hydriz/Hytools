@@ -25,7 +25,7 @@ function ListFiles($dir) {
 
 
 foreach (ListFiles('/mnt/user-store/xmldumps') as $key=>$file){
-    echo $file ."<br />";
+    echo '<a href="download.php?download_file=' . $file . '">' . $file . "</a>" . "<br />";
 }  
 
 ?>
