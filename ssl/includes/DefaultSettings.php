@@ -22,3 +22,6 @@ $hyErrorRecipient = "someone@example.com";
 
 // Sender of error email, can be anyone, depending on your server
 $hyErrorSender = "noreply@example.com";
+
+// Hard-coded path to directory that contains files available for anyone to download
+$hyDownloadsFolder = "/home/hydriz/public_html/downloads";
