@@ -1,12 +1,13 @@
 <?php
 
-echo "<html>
+echo '<html>
 <head>
 <title>Wikimedia Database download service</title>
 </head>
 <body>
 <h1>Wikimedia Database download service</h1>
-<p>Welcome to the Wikimedia Database download service hosted on the Wikimedia Toolserver. This list is pretty ugly now, so just use <tt>Ctrl + F</tt> and type in the wiki that you wish to download. There are also date stamps along with each download, so choose which date of dump you would like to have and click it to download!</p>";
+<p>Welcome to the Wikimedia Database download service hosted on the Wikimedia Toolserver. This list is pretty ugly now, so just use <tt>Ctrl + F</tt> and type in the wiki that you wish to download. There are also date stamps along with each download, so choose which date of dump you would like to have and click it to download!</p>
+<p>Prefer the original? Click <a href="http://dumps.wikimedia.org/backup-index.html">here</a>.</p>';
 
 function ListFiles($dir) {
 
