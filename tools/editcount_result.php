@@ -35,9 +35,12 @@ if (!$con)
 
 mysql_select_db("enwiki_p", $con); // TEMP, will have to allow visitor to choose database
 
-$result = mysql_query('SELECT user_editcount FROM user WHERE user_name = "' . $_GET['username'] . '";');
+$query = 'SELECT * FROM user WHERE user_name = "' . $_GET['username'] . '";');
+$result = mysql_query($query);
 
-echo "User's edit count: " . $result;
+while ($row = mysql_fetch_array($result)){
+   echo "User's edit count: " . $row["user_editcount"];
+}
 
 mysql_close($con);
 ?>
