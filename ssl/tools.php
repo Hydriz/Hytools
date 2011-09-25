@@ -38,7 +38,7 @@ Jump to: <a href="#mw-head">navigation</a>,
 		<ul>
 			<li  id="pt-userpage" class="active"><a href="http://meta.wikimedia.org/wiki/User:Hydriz" title="Visit Hydriz's userpage on Meta Wiki" accesskey=".">Hydriz on Meta</a></li> 
 			<li  id="pt-mytalk"><a href="http://meta.wikimedia.org/wiki/User_talk:Hydriz" title="Visit Hydriz's talk page on Meta Wiki" accesskey="n">Talk page</a></li> 
-			<li  id="pt-preferences"><a href="http://toolserver.org/~vvv/sulutil.php?user=Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
+			<li  id="pt-preferences"><a href="http://toolserver.org/~quentinv57/sulinfo/Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
 			<li  id="pt-logout"><a href="http://meta.wikimedia.org" title="Brings you back to Meta Wiki on Wikimedia">Back to Meta</a></li> 
 		</ul> 
 </div> 
