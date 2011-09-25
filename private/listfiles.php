@@ -1,19 +1,31 @@
 <?php
 
-//path to directory to scan
-$directory = "/mnt/user-store/xmldumps/";
- 
-//get all files in specified directory
-$files = glob($directory . "*");
- 
-//print each file name
-foreach($files as $file)
-{
- //check to see if the file is a folder/directory
- if(is_dir($file))
- {
-  echo $file;
- }
+function ListFiles($dir) {
+
+    if($dh = opendir($dir)) {
+
+        $files = Array();
+        $inner_files = Array();
+
+        while($file = readdir($dh)) {
+            if($file != "." && $file != ".." && $file[0] != '.') {
+                if(is_dir($dir . "/" . $file)) {
+                    $inner_files = ListFiles($dir . "/" . $file);
+                    if(is_array($inner_files)) $files = array_merge($files, $inner_files); 
+                } else {
+                    array_push($files, $dir . "/" . $file);
+                }
+            }
+        }
+
+        closedir($dh);
+        return $files;
+    }
 }
+
+
+foreach (ListFiles('/mnt/user-store/xmldumps') as $key=>$file){
+    echo $file ."<br />";
+}  
 
 ?>
