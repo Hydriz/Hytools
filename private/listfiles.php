@@ -33,7 +33,7 @@ function ListFiles($dir) {
 
 
 foreach (ListFiles('/mnt/user-store/xmldumps') as $key=>$file){
-    echo '<li><a href="download.php?download_file=' . $file . '">' . $file . "</a></li>" . "<br />";
+    echo '<li><a href="download.php?download_file=' . $file . '">' . $file . "</a></li>";
 }  
 
 echo "</body>
