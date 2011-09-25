@@ -28,6 +28,6 @@
   }
 
 // The epic test
-getDirectoryList(/mnt/user-store/xmldumps);
+getDirectoryList(/home/hydriz/public_html);
 
 ?>
