@@ -3,13 +3,17 @@
 //path to directory to scan
 $directory = "/mnt/user-store/xmldumps/";
  
-//get all image files with a .jpg extension.
-$images = glob($directory);
+//get all files in specified directory
+$files = glob($directory . "*");
  
 //print each file name
-foreach($images as $image)
+foreach($files as $file)
 {
-echo $image;
+ //check to see if the file is a folder/directory
+ if(is_dir($file))
+ {
+  echo $file;
+ }
 }
 
 ?>
