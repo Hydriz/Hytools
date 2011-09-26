@@ -5,7 +5,7 @@
 <title>Hydriz on Toolserver</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
 <meta http-equiv="Content-Style-Type" content="text/css" /> 
-<meta name="generator" content="Hytools 2.1" /> 
+<meta name="generator" content="Hytools 2.3tsh1" /> 
 <link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" /> 
 <link rel="stylesheet" href="style.css" type="text/css" media="all" /> 
 <script type="text/javascript" src="style.js"></script> 
@@ -86,7 +86,7 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<ul id="footer-info"> 
 		<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
-See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <?php require_once("LocalSettings.php"); echo $hyVersion; ?>.</li> 
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <a href="https://github.com/Hydriz/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>"><?php require_once('LocalSettings.php'); echo $hyVersion; ?>.</li> 
 	</ul> 
 	<ul id="footer-places"> 
 		<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
