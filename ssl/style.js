@@ -35,7 +35,7 @@ $( document ).ready( function() {
 	
 	// Placeholder text for SimpleSearch box
 	$( 'div#simpleSearch > input#searchInput' )
-		.attr( 'placeholder', mediaWiki.msg( 'vector-simplesearch-search' ) )
+		.attr( 'placeholder', 'Search' )
 		.placeholder();
 	
 	// General suggestions functionality for all search boxes
