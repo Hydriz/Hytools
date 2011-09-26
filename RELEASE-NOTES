@@ -1,6 +1,6 @@
 = Hytools release notes =
 
-== Hytools 2.2 ==
+== Hytools 2.3 ==
 
 THIS IS NOT A RELEASE YET.
 
@@ -9,15 +9,8 @@ many machines as possible, we are unable to guarantee that this version of
 Hytools is able to provide a stable interface for users using this software as
 a commercial purpose.
 
-=== New features in 2.2 ===
-* HTML has now changed to PHP, but usage of PHP only appears in some parts of
-the site. This is part of the transition to the phase 3 software of Hytools.
-* Site notices can now be enabled using the $hySiteNotice configuration in
-LocalSettings.php. Message will appear throughout the site itself, above the
-first heading.
-* When a visitor visits the site, they would be redirected to the SSL-enabled
-site located in the ssl directory.
-* Bots page has been removed following the CVT project becoming defunct.
-* Links that point to the hosting repository of the software is now changed to
-the new GitHub repository
-* The link to the SUL information has been changed to a new site.
+=== New features in 2.3 ===
+* A new link is provided at the version number found at the bottom of every page
+to link users to the Git repository of Hytools.
+* Hytools now provides a new service of listing the Wikimedia database downloads
+in the new "dumps" directory (previously found in the "private" directory).
