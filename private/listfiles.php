@@ -163,6 +163,12 @@ foreach (ListFiles('/mnt/user-store/xmldumps/z') as $key=>$file){
     echo '<li><a href="download.php?download_file=' . $file . '">' . $file . "</a></li>";
 }
 
+$file = "/mnt/user-store/xmldumps/md5";
+$contents = file($file); 
+$string = implode($contents); 
+
+echo $string; 
+
 echo "</body>
 </html>";
 
