@@ -21,3 +21,4 @@ site located in the ssl directory.
 * Links that point to the hosting repository of the software is now changed to
 the new GitHub repository
 * The link to the SUL information has been changed to a new site.
+* The database dumps page now supports alphabetical listing.
