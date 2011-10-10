@@ -18,10 +18,10 @@ function ListFiles($dir) {
         while($file = readdir($dh)) {
             if($file != "." && $file != ".." && $file[0] != '.') {
                 if(is_dir($dir . "/" . $file)) {
-                    $inner_files = ListFiles($dir . "/" . $file);
+                    $inner_files = ListFiles($file);
                     if(is_array($inner_files)) $files = array_merge($files, $inner_files); 
                 } else {
-                    array_push($files, $dir . "/" . $file);
+                    array_push($files,$file);
                 }
             }
         }
@@ -31,7 +31,7 @@ function ListFiles($dir) {
     }
 }
 
-foreach (ListFiles('/mnt/user-store/wikiteam') as $key=>$file){
+foreach (ListFiles('/mnt/user-store/wikiteam/public') as $key=>$file){
     echo '<li><a href="down.php?download_file=' . $file . '">' . $file . "</a></li>";
 }
 
