@@ -6,7 +6,7 @@ echo '<html>
 </head>
 <body>
 <h1>The Wikiteam wikis backup service</h1>
-<p>Welcome to the Wikiteam wikis backup service. This is the service whereby we serve you the database dumps of wikis around the world, just to help out with the Wikiteam movement!</p>';
+<p>Welcome to the <a href="http://code.google.com/p/wikiteam">Wikiteam</a> wikis backup service. This is the service whereby we serve you the database dumps of wikis around the world, just to help out with the Wikiteam movement!</p>';
 
 function ListFiles($dir) {
 
