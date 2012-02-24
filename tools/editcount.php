@@ -5,7 +5,7 @@
 <title>Edit count - Hydriz on Toolserver</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
 <meta http-equiv="Content-Style-Type" content="text/css" /> 
-<meta name="generator" content="Hytools 2.1" /> 
+<meta name="generator" content="Hytools <?php require_once('LocalSettings.php'); echo $hyVersion; ?>" /> 
 <link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" /> 
 <link rel="stylesheet" href="style.css" type="text/css" media="all" /> 
 <script type="text/javascript" src="style.js"></script> 
@@ -65,8 +65,8 @@ Project: <input type="text" name="lang" size="8" />.<input type="text" name="pro
 	<h5>Views</h5> 
 	<ul> 
 		<li id="ca-view" class="selected"><span><a href="./index.php" >Read</a></span></li> 
-		<li id="ca-edit"><span><a href="https://github.com/Hydriz/Hytools/tree/2.2tsh1/tools/editcount.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
-		<li id="ca-history" class="collapsible "><span><a href="https://github.com/Hydriz/Hytools/commits/2.2tsh1/"  title="Find out the history of this software" accesskey="h">View history</a></span></li> 
+		<li id="ca-edit"><span><a href="https://github.com/AlphaCorp/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>/tools/editcount.php"  title="Preview the source code for this page" accesskey="e">View source</a></span></li> 
+		<li id="ca-history" class="collapsible "><span><a href="https://github.com/AlphaCorp/Hytools/commits/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>/"  title="Find out the history of this software" accesskey="h">View history</a></span></li> 
 			</ul> 
 </div> 
 <div id="p-search"> 
