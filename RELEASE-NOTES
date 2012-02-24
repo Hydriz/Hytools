@@ -12,5 +12,8 @@ a commercial purpose.
 === New features in 2.3 ===
 * A new link is provided at the version number found at the bottom of every page
 to link users to the Git repository of Hytools.
-* Hytools now provides a new service of listing the Wikimedia database downloads
-in the new "dumps" directory (previously found in the "private" directory).
+* Pages now use the $hyVersion variable instead of being hardcoded as the version
+number, which may actually go out of date.
+* Links to Wikimedia websites now point to the HTTPS version due to the requirement
+on our part about using HTTPS, and thus to maintain a consistent protocol while
+navigating across domains.
