@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * This is the main index file for all the wikis available for download
+ */
+
+// Get the functions
+require_once("functions.php");
+
 echo '<html>
 <head>
 <title>Wikimedia Database download service</title>
@@ -9,29 +16,6 @@ echo '<html>
 <p>Welcome to the Wikimedia Database download service hosted on the Wikimedia Toolserver. This list is pretty ugly now, so just use <tt>Ctrl + F</tt> and type in the wiki that you wish to download. There are also date stamps along with each download, so choose which date of dump you would like to have and click it to download!</p>
 <p>Prefer the original? Click <a href="http://dumps.wikimedia.org/backup-index.html">here</a>.</p>
 <p>Jump to: <a href="#a">a</a>, <a href="#b">b</a>, <a href="#c">c</a>, <a href="#d">d</a>, <a href="#e">e</a>, <a href="#f">f</a>, <a href="#g">g</a>, <a href="#h">h</a>, <a href="#i">i</a>, <a href="#j">j</a>, <a href="#k">k</a>, <a href="#l">l</a>, <a href="#m">m</a>, <a href="#n">n</a>, <a href="#o">o</a>, <a href="#p">p</a>, <a href="#q">q</a>, <a href="#r">r</a>, <a href="#s">s</a>, <a href="#t">t</a>, <a href="#u">u</a>, <a href="#v">v</a>, <a href="#w">w</a>, <a href="#x">x</a>, <a href="#y">y</a>, <a href="#z">z</a></p>';
-
-function ListFiles($dir) {
-
-    if($dh = opendir($dir)) {
-
-        $files = Array();
-        $inner_files = Array();
-
-        while($file = readdir($dh)) {
-            if($file != "." && $file != ".." && $file[0] != '.') {
-                if(is_dir($dir . "/" . $file)) {
-                    $inner_files = ListFiles($dir . "/" . $file);
-                    if(is_array($inner_files)) $files = array_merge($files, $inner_files); 
-                } else {
-                    array_push($files, $dir . "/" . $file);
-                }
-            }
-        }
-
-        closedir($dh);
-        return $files;
-    }
-}
 
 echo '<h2><a name="a">a</a></h2>';
 foreach (ListFiles('/mnt/user-store/xmldumps/a') as $key=>$file){
