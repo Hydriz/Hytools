@@ -19,7 +19,7 @@
 <div id="siteNotice"><?php require_once("includes/SiteNotice.php"); ?></div>
 <h1 id="firstHeading" class="firstHeading">Account matrix</h1> 
 <div id="bodyContent"> 
-<div id="siteSub">By <a title="m:Hydriz" href="http://meta.wikimedia.org/wiki/User:Hydriz">Hydriz</a></div> 
+<div id="siteSub">By <a title="m:Hydriz" href="https://meta.wikimedia.org/wiki/User:Hydriz">Hydriz</a></div> 
 <div id="contentSub"></div> 
 <div id="jump-to-nav"> 
 Jump to: <a href="#mw-head">navigation</a>,
@@ -33,72 +33,72 @@ Jump to: <a href="#mw-head">navigation</a>,
 <th>Rights I hold</th> 
 </tr> 
 <tr> 
-<td><a href="http://simple.wikipedia.org/wiki/User:Hydriz" class="extiw" title="simple:User:Hydriz">Simple English Wikipedia</a></td> 
+<td><a href="https://simple.wikipedia.org/wiki/User:Hydriz" class="extiw" title="simple:User:Hydriz">Simple English Wikipedia</a></td> 
 <td>4,000+</td> 
-<td><a href="http://simple.wikipedia.org/wiki/Wikipedia:Rollbackers" class="extiw" title="simple:Wikipedia:Rollbackers">Rollbacker</a> and <a href="http://simple.wikipedia.org/wiki/Wikipedia:Patrollers" class="extiw" title="simple:Wikipedia:Patrollers">Patroller</a></td> 
+<td><a href="https://simple.wikipedia.org/wiki/Wikipedia:Rollbackers" class="extiw" title="simple:Wikipedia:Rollbackers">Rollbacker</a> and <a href="https://simple.wikipedia.org/wiki/Wikipedia:Patrollers" class="extiw" title="simple:Wikipedia:Patrollers">Patroller</a></td> 
 </tr> 
 <tr> 
-<td><a href="http://simple.wikipedia.org/wiki/wikt:User:Hydriz" class="extiw" title="simple:wikt:User:Hydriz">Simple English Wiktionary</a></td> 
+<td><a href="https://simple.wikipedia.org/wiki/wikt:User:Hydriz" class="extiw" title="simple:wikt:User:Hydriz">Simple English Wiktionary</a></td> 
 <td>1,700+</td> 
-<td><a href="http://simple.wikipedia.org/wiki/wikt:Wiktionary:Rollbackers" class="extiw" title="simple:wikt:Wiktionary:Rollbackers">Rollbacker</a>, <a href="http://simple.wikipedia.org/wiki/wikt:Wiktionary:Autopatrol" class="extiw" title="simple:wikt:Wiktionary:Autopatrol">Autopatroller</a> and <a href="http://simple.wikipedia.org/wiki/wikt:Wiktionary:IP_block_exemption" class="extiw" title="simple:wikt:Wiktionary:IP block exemption">IP block exemption</a></td> 
+<td><a href="https://simple.wikipedia.org/wiki/wikt:Wiktionary:Rollbackers" class="extiw" title="simple:wikt:Wiktionary:Rollbackers">Rollbacker</a>, <a href="https://simple.wikipedia.org/wiki/wikt:Wiktionary:Autopatrol" class="extiw" title="simple:wikt:Wiktionary:Autopatrol">Autopatroller</a> and <a href="https://simple.wikipedia.org/wiki/wikt:Wiktionary:IP_block_exemption" class="extiw" title="simple:wikt:Wiktionary:IP block exemption">IP block exemption</a></td> 
 </tr> 
 <tr> 
-<td><a href="http://rue.wikipedia.org/wiki/User:Hydriz" class="extiw" title="rue:User:Hydriz">Rusyn Wikipedia</a></td> 
+<td><a href="https://rue.wikipedia.org/wiki/User:Hydriz" class="extiw" title="rue:User:Hydriz">Rusyn Wikipedia</a></td> 
 <td>100+</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://strategy.wikimedia.org/wiki/User:Hydriz" class="extiw" title="strategy:User:Hydriz">Strategic Planning</a></td> 
+<td><a href="https://strategy.wikimedia.org/wiki/User:Hydriz" class="extiw" title="strategy:User:Hydriz">Strategic Planning</a></td> 
 <td>400+</td> 
-<td><a href="http://strategy.wikimedia.org/wiki/Strategic_Planning:Administrators" class="extiw" title="strategy:Strategic Planning:Administrators">Administrator (sysop)</a> and <a href="http://strategy.wikimedia.org/wiki/Strategic_Planning:Bureaucrats" class="extiw" title="strategy:Strategic Planning:Bureaucrats">Bureaucrat</a></td> 
+<td><a href="https://strategy.wikimedia.org/wiki/Strategic_Planning:Administrators" class="extiw" title="strategy:Strategic Planning:Administrators">Administrator (sysop)</a> and <a href="https://strategy.wikimedia.org/wiki/Strategic_Planning:Bureaucrats" class="extiw" title="strategy:Strategic Planning:Bureaucrats">Bureaucrat</a></td> 
 </tr> 
 <tr> 
-<td><a href="http://incubator.wikimedia.org/wiki/User:Hydriz" class="extiw" title="incubator:User:Hydriz">Wikimedia Incubator</a></td> 
+<td><a href="https://incubator.wikimedia.org/wiki/User:Hydriz" class="extiw" title="incubator:User:Hydriz">Wikimedia Incubator</a></td> 
 <td>600+</td> 
-<td><a href="http://incubator.wikimedia.org/wiki/Incubator:Coordination_for_importing_closed_projects" class="extiw" title="incubator:Incubator:Coordination for importing closed projects">Importer</a>, <a href="http://incubator.wikimedia.org/wiki/Incubator:Administrators" class="extiw" title="incubator:Incubator:Administrators">Administrator (sysop)</a> and <a href="http://incubator.wikimedia.org/wiki/Incubator:Bureaucrats" class="extiw" title="incubator:Incubator:Bureaucrats">Bureaucrat</td> 
+<td><a href="https://incubator.wikimedia.org/wiki/Incubator:Coordination_for_importing_closed_projects" class="extiw" title="incubator:Incubator:Coordination for importing closed projects">Importer</a>, <a href="https://incubator.wikimedia.org/wiki/Incubator:Administrators" class="extiw" title="incubator:Incubator:Administrators">Administrator (sysop)</a> and <a href="https://incubator.wikimedia.org/wiki/Incubator:Bureaucrats" class="extiw" title="incubator:Incubator:Bureaucrats">Bureaucrat</td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:用户:Hydriz">Chinese Wikipedia</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:用户:Hydriz">Chinese Wikipedia</a></td> 
 <td>50+</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/wikt:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:wikt:用户:Hydriz">Chinese Wiktionary</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/wikt:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:wikt:用户:Hydriz">Chinese Wiktionary</a></td> 
 <td>0</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/b:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:b:用户:Hydriz">Chinese Wikibooks</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/b:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:b:用户:Hydriz">Chinese Wikibooks</a></td> 
 <td>50+</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/q:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:q:用户:Hydriz">Chinese Wikiquote</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/q:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:q:用户:Hydriz">Chinese Wikiquote</a></td> 
 <td>1+</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/n:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:n:用户:Hydriz">Chinese Wikinews</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/n:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:n:用户:Hydriz">Chinese Wikinews</a></td> 
 <td>0</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/s:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:s:用户:Hydriz">Chinese Wikisource</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/s:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:s:用户:Hydriz">Chinese Wikisource</a></td> 
 <td>0</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://zh.wikipedia.org/wiki/v:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:v:用户:Hydriz">Chinese Wikiversity</a></td> 
+<td><a href="https://zh.wikipedia.org/wiki/v:%E7%94%A8%E6%88%B7:Hydriz" class="extiw" title="zh:v:用户:Hydriz">Chinese Wikiversity</a></td> 
 <td>0</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://en.wikipedia.org/wiki/User:Hydriz" class="extiw" title="en:User:Hydriz">English Wikipedia</a></td> 
+<td><a href="https://en.wikipedia.org/wiki/User:Hydriz" class="extiw" title="en:User:Hydriz">English Wikipedia</a></td> 
 <td>450+</td> 
 <td><i>None</i></td> 
 </tr> 
 <tr> 
-<td><a href="http://en.wikinews.org/wiki/User:Hydriz" class="extiw" title="wikinews:User:Hydriz">English Wikinews</a></td> 
+<td><a href="https://en.wikinews.org/wiki/User:Hydriz" class="extiw" title="wikinews:User:Hydriz">English Wikinews</a></td> 
 <td>1+</td> 
 <td><i>None</i></td> 
 </tr> 
@@ -112,10 +112,10 @@ Jump to: <a href="#mw-head">navigation</a>,
 <div id="p-personal" class=""> 
 	<h5>Personal tools</h5> 
 		<ul>
-			<li  id="pt-userpage" class="active"><a href="http://meta.wikimedia.org/wiki/User:Hydriz" title="Visit Hydriz's userpage on Meta Wiki" accesskey=".">Hydriz on Meta</a></li> 
-			<li  id="pt-mytalk"><a href="http://meta.wikimedia.org/wiki/User_talk:Hydriz" title="Visit Hydriz's talk page on Meta Wiki" accesskey="n">Talk page</a></li> 
-			<li  id="pt-preferences"><a href="http://toolserver.org/~quentinv57/sulinfo/Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
-			<li  id="pt-logout"><a href="http://meta.wikimedia.org" title="Brings you back to Meta Wiki on Wikimedia">Back to Meta</a></li> 
+			<li  id="pt-userpage" class="active"><a href="https://meta.wikimedia.org/wiki/User:Hydriz" title="Visit Hydriz's userpage on Meta Wiki" accesskey=".">Hydriz on Meta</a></li> 
+			<li  id="pt-mytalk"><a href="https://meta.wikimedia.org/wiki/User_talk:Hydriz" title="Visit Hydriz's talk page on Meta Wiki" accesskey="n">Talk page</a></li> 
+			<li  id="pt-preferences"><a href="https://toolserver.org/~quentinv57/sulinfo/Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
+			<li  id="pt-logout"><a href="https://meta.wikimedia.org" title="Brings you back to Meta Wiki on Wikimedia">Back to Meta</a></li> 
 		</ul> 
 </div> 
 <div id="left-navigation"> 
@@ -145,7 +145,7 @@ Jump to: <a href="#mw-head">navigation</a>,
 </div> 
 <div id="p-search"> 
 	<h5><label for="searchInput">Search</label></h5> 
-	<form action="http://en.wikipedia.org/w/index.php" id="searchform"> 
+	<form action="https://en.wikipedia.org/w/index.php" id="searchform"> 
 		<input type='hidden' name="title" value="Special:Search"/> 
 			<div id="simpleSearch"> 
 				<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" /> 
@@ -160,19 +160,19 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<ul id="footer-info"> 
 		<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
-See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <a href="https://github.com/Hydriz/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>"><?php require_once('LocalSettings.php'); echo $hyVersion; ?>.</li> 
+See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <a href="https://github.com/Hydriz/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>"><?php require_once('LocalSettings.php'); echo $hyVersion; ?>.</li> 
 	</ul> 
 	<ul id="footer-places"> 
-		<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
-		<li id="footer-places-about"><a href="http://wikimediafoundation.org/wiki/Main_Page" title="wikimedia:Main Page">About Wikimedia Foundation</a></li> 
-		<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="en:Wikipedia:General disclaimer">Disclaimers</a></li> 
+		<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+		<li id="footer-places-about"><a href="https://wikimediafoundation.org/wiki/Main_Page" title="wikimedia:Main Page">About Wikimedia Foundation</a></li> 
+		<li id="footer-places-disclaimer"><a href="https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="en:Wikipedia:General disclaimer">Disclaimers</a></li> 
 	</ul> 
 	<ul id="footer-icons" class="noprint"> 
 		<li id="footer-copyrightico"> 
-			<a href="http://wikimediafoundation.org/"><img src="images/license.png" width="88" height="31"/></a> 
+			<a href="https://wikimediafoundation.org/"><img src="images/license.png" width="88" height="31"/></a> 
 		</li> 
 		<li id="footer-poweredbyico"> 
-			<a href="http://toolserver.org/"><img src="images/powered-by.png" alt="Powered by Toolserver" width="88" height="31" /></a> 
+			<a href="https://toolserver.org/"><img src="images/powered-by.png" alt="Powered by Toolserver" width="88" height="31" /></a> 
 		</li> 
 	</ul> 
 	<div style="clear:both"></div> 

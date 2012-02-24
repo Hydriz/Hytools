@@ -18,7 +18,7 @@
 <div id="siteNotice"><?php require_once("includes/SiteNotice.php"); ?></div>
 <h1 id="firstHeading" class="firstHeading">Tools</h1> 
 <div id="bodyContent"> 
-<div id="siteSub">By <a title="m:Hydriz" href="http://meta.wikimedia.org/wiki/User:Hydriz">Hydriz</a></div> 
+<div id="siteSub">By <a title="m:Hydriz" href="https://meta.wikimedia.org/wiki/User:Hydriz">Hydriz</a></div> 
 <div id="contentSub"></div> 
 <div id="jump-to-nav"> 
 Jump to: <a href="#mw-head">navigation</a>,
@@ -36,10 +36,10 @@ Jump to: <a href="#mw-head">navigation</a>,
 <div id="p-personal" class=""> 
 	<h5>Personal tools</h5> 
 		<ul>
-			<li  id="pt-userpage" class="active"><a href="http://meta.wikimedia.org/wiki/User:Hydriz" title="Visit Hydriz's userpage on Meta Wiki" accesskey=".">Hydriz on Meta</a></li> 
-			<li  id="pt-mytalk"><a href="http://meta.wikimedia.org/wiki/User_talk:Hydriz" title="Visit Hydriz's talk page on Meta Wiki" accesskey="n">Talk page</a></li> 
-			<li  id="pt-preferences"><a href="http://toolserver.org/~quentinv57/sulinfo/Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
-			<li  id="pt-logout"><a href="http://meta.wikimedia.org" title="Brings you back to Meta Wiki on Wikimedia">Back to Meta</a></li> 
+			<li  id="pt-userpage" class="active"><a href="https://meta.wikimedia.org/wiki/User:Hydriz" title="Visit Hydriz's userpage on Meta Wiki" accesskey=".">Hydriz on Meta</a></li> 
+			<li  id="pt-mytalk"><a href="https://meta.wikimedia.org/wiki/User_talk:Hydriz" title="Visit Hydriz's talk page on Meta Wiki" accesskey="n">Talk page</a></li> 
+			<li  id="pt-preferences"><a href="https://toolserver.org/~quentinv57/sulinfo/Hydriz" title="Information about Hydriz on Wikimedia">Global Hydriz</a></li>
+			<li  id="pt-logout"><a href="https://meta.wikimedia.org" title="Brings you back to Meta Wiki on Wikimedia">Back to Meta</a></li> 
 		</ul> 
 </div> 
 <div id="left-navigation"> 
@@ -70,7 +70,7 @@ Jump to: <a href="#mw-head">navigation</a>,
 </div> 
 <div id="p-search"> 
 	<h5><label for="searchInput">Search</label></h5> 
-	<form action="http://en.wikipedia.org/w/index.php" id="searchform"> 
+	<form action="https://en.wikipedia.org/w/index.php" id="searchform"> 
 		<input type='hidden' name="title" value="Special:Search"/> 
 			<div id="simpleSearch"> 
 				<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" /> 
@@ -85,19 +85,19 @@ Jump to: <a href="#mw-head">navigation</a>,
 	<ul id="footer-info"> 
 		<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
-See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <a href="https://github.com/Hydriz/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>"><?php require_once('LocalSettings.php'); echo $hyVersion; ?>.</li> 
+See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br />This website is powered by Hytools <a href="https://github.com/Hydriz/Hytools/tree/<?php require_once('LocalSettings.php'); echo $hyVersion; ?>"><?php require_once('LocalSettings.php'); echo $hyVersion; ?>.</li> 
 	</ul> 
 	<ul id="footer-places"> 
-		<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
-		<li id="footer-places-about"><a href="http://wikimediafoundation.org/wiki/Main_Page" title="wikimedia:Main Page">About Wikimedia Foundation</a></li> 
-		<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="en:Wikipedia:General disclaimer">Disclaimers</a></li> 
+		<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+		<li id="footer-places-about"><a href="https://wikimediafoundation.org/wiki/Main_Page" title="wikimedia:Main Page">About Wikimedia Foundation</a></li> 
+		<li id="footer-places-disclaimer"><a href="https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="en:Wikipedia:General disclaimer">Disclaimers</a></li> 
 	</ul> 
 	<ul id="footer-icons" class="noprint"> 
 		<li id="footer-copyrightico"> 
-			<a href="http://wikimediafoundation.org/"><img src="images/license.png" width="88" height="31"/></a> 
+			<a href="https://wikimediafoundation.org/"><img src="images/license.png" width="88" height="31"/></a> 
 		</li> 
 		<li id="footer-poweredbyico"> 
-			<a href="http://toolserver.org/"><img src="images/powered-by.png" alt="Powered by Toolserver" width="88" height="31" /></a> 
+			<a href="https://toolserver.org/"><img src="images/powered-by.png" alt="Powered by Toolserver" width="88" height="31" /></a> 
 		</li> 
 	</ul> 
 	<div style="clear:both"></div> 
