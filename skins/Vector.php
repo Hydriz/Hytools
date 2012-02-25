@@ -1,4 +1,4 @@
-		<link rel="stylesheet" type="text/css" href="<?php echo $IP . '/includes/vector/screen.css'; ?>" />
+		<link rel="stylesheet" type="text/css" href="<?php echo $IP . '/skins/vector/screen.css'; ?>" />
 		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<!-- content -->
