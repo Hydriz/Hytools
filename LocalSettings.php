@@ -8,5 +8,10 @@
 
 */
 
+$hyInstallPath = "/var/www/phase3/";
+require_once("$hyInstallPath/includes/DefaultSettings.php");
+
+$IP = "http://toolserver.org/~hydriz"; 
+
 // Define what message to appear when the site is accessed
 $hyMessage = "Hello world!";

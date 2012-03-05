@@ -10,7 +10,7 @@
 */
 
 // Hytools version number
-$hyVersion = "1.1";
+$hyVersion = "3.1";
 
 // The website's name, override in LocalSettings.php
 $hySitename = "Hytools";

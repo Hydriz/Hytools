@@ -1,9 +1,9 @@
 README
 
-== Hytools-PHP 1.1/Hytools 3.1 ==
+== Hytools 3.1 ==
 This is the PHP version of Hytools. It is currently in
 experimental mode and is not intended for use on normal
 installations of Hytools. Instead, use the phase 2
 branch of the Hytools software:
 
-https://github.com/Hydriz/Hytools/tree/2.3tsh1
+https://github.com/AlphaCorp/Hytools/tree/2.3tsh1

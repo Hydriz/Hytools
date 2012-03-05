@@ -1,3 +1,4 @@
+<?php require_once(".." . "/LocalSettings.php"); ?>
 		<link rel="stylesheet" type="text/css" href="<?php echo $IP . '/skins/vector/screen.css'; ?>" />
 		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>

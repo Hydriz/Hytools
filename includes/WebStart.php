@@ -16,6 +16,3 @@ require_once("$IP/includes/Header.php");
 
 // Get main page content
 require_once("$IP/skins/" . ucfirst($hyUseSkin) . ".php");
-
-// Get footer content
-require_once("$IP/includes/Footer.php");
