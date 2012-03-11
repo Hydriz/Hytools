@@ -22,7 +22,7 @@ $hyServer = "https://toolserver.org/~hydriz";
 $hySitenotice = "";
 
 // Set the logo of the software, override in LocalSettings.php
-$hyLogo = "http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png";
+$hyLogo = "https://toolserver.org/~hydriz/ssl/images/logo.png";
 
 // Sets the skin the software uses
 $hyUseSkin = "vector";

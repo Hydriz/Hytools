@@ -37,7 +37,7 @@ See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> 
 		</li> 
 		<li id="footer-poweredbyico"> 
 			<a href="http://www.mediawiki.org/"><img src="';
-	$output .= "$IP/skins/vector/images/poweredby_mediawiki_88x31.png";
+	$output .= "$IP/skins/vector/images/powered-by.png";
 	$output .= '" alt="Powered by MediaWiki" width="88" height="31" /></a> 
 		</li> 
 <div style="clear:both"></div> 
