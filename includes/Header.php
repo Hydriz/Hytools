@@ -4,6 +4,8 @@
  *
  */
 
+require_once(".." . "/LocalSettings.php");
+
 function buildHeader() {
 	global $hySitename;
 	$output = "<html>
